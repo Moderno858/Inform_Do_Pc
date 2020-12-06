@@ -5,7 +5,7 @@ echo "==================================="
 echo "Obrigado Senhor(a)$USER Por estar acessando O Informaçao Do pc" 
 main()
  {
-echo "Escolha uma opçao para você ver sobre o seu pc"
+echo "Escolha um numero  para você ver sobre o seu pc"
 echo "1- Home"
 echo "2- Loganame"
 echo "3- Liguagem"
