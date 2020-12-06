@@ -6,7 +6,10 @@ echo "A UID do seu pc é $UID"
 echo "O Display do seu pc é $DISPLAY"
 echo "O Windowid do seu pc é $WINDOWID"
 echo "O Colortem do seu pc é $COLORTERM"
-echo "A Shell do seu pc e $SHELL"
+echo "A Shell do seu pc é $SHELL"
+echo "A Session_Manager do seu pc é $SESSION_MANAGER"
+echo "A Path do seu pc é $PATH"
+
 
 
 
